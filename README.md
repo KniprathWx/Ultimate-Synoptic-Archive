@@ -80,3 +80,13 @@ Released: 07/10/2023
     -Are having problems with the code (and have went through the troubleshooting checklist above)
     -Have suggestions for new features/map types to be added to the code
     ---> Please let me know! Twitter is probably the best way to contact me: @KniprathWx
+# Availible Map Options:
+![250mb](https://github.com/KniprathWx/Ultimate-Synoptic-Archive/blob/main/250mbJet_CFSR_11-01-1991_18z.png)
+![500mb](https://github.com/KniprathWx/Ultimate-Synoptic-Archive/blob/main/500mbVorticity_CFSR_11-01-1991_18z.png)
+![850mbThetaE](https://github.com/KniprathWx/Ultimate-Synoptic-Archive/blob/main/850mbThetaE_CFSR_11-01-1991_18z.png)
+![850mbWinds](https://github.com/KniprathWx/Ultimate-Synoptic-Archive/blob/main/850mbWinds_CFSR_11-01-1991_18z.png)
+![925mb](https://github.com/KniprathWx/Ultimate-Synoptic-Archive/blob/main/925mbFrontogenesis_CFSR_11-01-1991_18z.png)
+![PWAT](https://github.com/KniprathWx/Ultimate-Synoptic-Archive/blob/main/PWAT_CFSR_11-01-1991_18z.png)
+![SWEAT](https://github.com/KniprathWx/Ultimate-Synoptic-Archive/blob/main/SWEAT_CFSR_11-01-1991_18z.png)
+![SfcTemp](https://github.com/KniprathWx/Ultimate-Synoptic-Archive/blob/main/SurfaceTemp_CFSR_11-01-1991_18z.png)
+![Composite](https://github.com/KniprathWx/Ultimate-Synoptic-Archive/blob/main/SynopticComposite_CFSR_11-01-1991_18z.png)
