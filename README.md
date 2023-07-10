@@ -1,8 +1,7 @@
-"""
-Ultimate Synoptic Archive VERSION 3.00
+# Ultimate Synoptic Archive VERSION 3.00
 Released: 07/10/2023
 
-Version 3.00 Changelog:
+### Version 3.00 Changelog:
     -New Features:
         -New Map Type --> Synoptic Composite (inspired by Tomer Burg's Synoptic Composite Map)
             -Includes 250mb winds, 500mb vort/heights, 850mb winds, MSLP, and PWAT
@@ -34,18 +33,14 @@ Version 3.00 Changelog:
         -Fixed data download code (again)
         -Got rid of those pesky code depreciation warnings
 
-___________________________________________________________________________________________________________________
-
-*IMPORTANT* steps to using this code successfully:
+### IMPORTANT steps to using this code successfully:
     1: Be sure to enter *ALL* required information in code cell 3 below
         ---> This includes the save location... You may need to create a new folder where this notebook is located
     2: *AFTER* you have entered all of the correct information, run *ALL* cells
     3: Wait at the last code cell for prompts on successful (or unsuccessful) map creation
     4: After prompted that the map(s) have been created, check your save folder to make sure they are there
 
-___________________________________________________________________________________________________________________
-
-Troubleshooting checklist:
+### Troubleshooting checklist:
     1: The code ran successfully, but my maps have no or incorrect data plotted on them
         -Try re-running the code
         -If the issue persists, try running a different case date (I recommend 12/28/2021 as I know it works)
@@ -58,17 +53,13 @@ Troubleshooting checklist:
     3: I am getting an error thrown on the "plt.savefig" line
         -Make sure your save location in code cell 3 exists (ie: you have created a folder and inserted the name in cell 3)  
 
-___________________________________________________________________________________________________________________
-
-Known Issues:
+### Known Issues:
     -Missing data at the Prime Meridian (Affects Europe projection *ONLY*)
         -Some solutions to this problem exist online, but are not immediately compatible with PyGrib Grids
     -925mb frontogenesis may struggle to plot for certain cases ---> Unknown cause at this time
     -Date/time text (upper right of map) randomly changes size ----> Unknown cause at this time
 
-___________________________________________________________________________________________________________________
-
-Future Plans:
+### Future Plans:
     -Add handling for multiple timestep input
     -Add further handling for max/min exceedance
     -Further development of 925 Frontogensis Map
@@ -84,12 +75,8 @@ Future Plans:
         -Southern Hemisphere version of these maps
         -Ultimate Mesoscale Archive (HRRR/RAP data and more maps!)
 
-___________________________________________________________________________________________________________________
-
-If you: 
+### If you: 
     -Find any bugs while using the code (not already outlined in "known issues" above)
     -Are having problems with the code (and have went through the troubleshooting checklist above)
     -Have suggestions for new features/map types to be added to the code
----> Please let me know! Twitter is probably the best way to contact me: @KniprathWx
-
-"""
+    ---> Please let me know! Twitter is probably the best way to contact me: @KniprathWx
